@@ -1,2 +1,4 @@
 test1 merge master1 branch1
 hogehoge
+aaaa
+aaaa2
